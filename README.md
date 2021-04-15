@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MelussiMkhonta/MelussiMkhonta/download.jpg "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/MelussiMkhonta/MelussiMkhonta/master/download.jpg "Header")](https://some-url.dev/)
 
 - 👋 Hi, I’m @MelussiMkhonta
 - 👀 I’m interested in computer programming and software engineering.
